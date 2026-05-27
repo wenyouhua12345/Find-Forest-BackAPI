@@ -58,7 +58,7 @@ npm install
 # 2. 配置环境变量（编辑 .env 文件）
 # 参考下方环境变量说明
 
-# 3. 初始化数据库
+# 3. 初始化数据库（数据库文件不全，暂时不操作）
 node scripts/initDatabase.js
 
 # 4. 开发模式启动
